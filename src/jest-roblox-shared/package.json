@@ -1,6 +1,6 @@
 {
   "name": "@jsdotlua/jest-roblox-shared",
-  "version": "3.6.1-rc.2",
+  "version": "3.10.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/jsdotlua/jest-lua.git",
@@ -17,6 +17,7 @@
     "@jsdotlua/luau-polyfill": "^1.2.6"
   },
   "devDependencies": {
+    "@jsdotlua/jest-config": "workspace:^",
     "@jsdotlua/jest-globals": "workspace:^",
     "npmluau": "^0.1.1"
   }
