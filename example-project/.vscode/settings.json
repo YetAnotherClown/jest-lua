@@ -4,10 +4,6 @@
     "luau-lsp.completion.imports.suggestServices": true,
     "luau-lsp.completion.imports.suggestRequires": false,
     "luau-lsp.require.mode": "relativeToFile",
-    "luau-lsp.require.directoryAliases": {
-        "@Project": "src/",
-        "@DevPackages": "DevPackages/"
-    },
     "luau-lsp.ignoreGlobs": [
         "DevPackages/*",
         "dist/*",

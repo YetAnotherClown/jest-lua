@@ -1,0 +1,6 @@
+{
+    "aliases": {
+        "Project": "src/",
+        "DevPackages": "DevPackages/"
+    }
+}
