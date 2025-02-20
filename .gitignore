@@ -39,3 +39,8 @@ roblox.toml
 # Editor files
 .vscode/launch.json
 .idea
+.vscode
+
+jest_runner_tmp
+lcov.info
+rbx-aged-tool.log

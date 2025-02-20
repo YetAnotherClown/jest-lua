@@ -1,6 +1,6 @@
 {
   "name": "@jsdotlua/jest-environment",
-  "version": "3.6.1-rc.2",
+  "version": "3.10.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/jsdotlua/jest-lua.git",
@@ -14,6 +14,7 @@
   "dependencies": {
     "@jsdotlua/jest-fake-timers": "workspace:^",
     "@jsdotlua/jest-mock": "workspace:^",
+    "@jsdotlua/jest-mock-genv": "workspace:^",
     "@jsdotlua/jest-types": "workspace:^",
     "@jsdotlua/luau-polyfill": "^1.2.6"
   },

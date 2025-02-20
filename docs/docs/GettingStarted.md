@@ -4,7 +4,7 @@ title: Getting Started
 slug: /
 ---
 
-The Jest Lua API is similar to [the API used by JavaScript Jest.](https://jestjs.io/docs/27.x/api)
+The Jest Roblox API is similar to [the API used by JavaScript Jest.](https://jest-archive-august-2023.netlify.app/docs/27.x/api)
 
 Jest Lua currently requires [`run-in-roblox`](https://github.com/rojo-rbx/run-in-roblox) to run from the command line. It can also be run directly inside of Roblox Studio. See issue [#2](https://github.com/jsdotlua/jest-lua/issues/2) for more.
 
@@ -16,8 +16,8 @@ Add the `JestGlobals` and `Jest` packages to your `dev-dependencies` in your `wa
 
 ```yaml title="wally.toml"
 [dev-dependencies]
-Jest = "jsdotlua/jest@3.6.1-rc.2"
-JestGlobals = "jsdotlua/jest-globals@3.6.1-rc.2"
+Jest = "jsdotlua/jest@3.10.0"
+JestGlobals = "jsdotlua/jest-globals@3.10.0"
 ```
 
 Run `wally install` to install Jest Lua.
